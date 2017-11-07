@@ -1,2 +1,2 @@
 # Hardware
-Hardware of lemoncopter.
+Hardware of lemonpi.
