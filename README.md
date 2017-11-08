@@ -9,7 +9,7 @@ MCU for lemon pi is stm32f405rgt6, with 168MHz clock and a high performance floa
 SensorGroup0:BMC150, BMG160, BMP280;
 SensorGroup1:LSM303D, L3GD20, BMP280.
 
-For more details:[http://www.luzhengrong.cn/index.php/2017/10/25/lemon-pi-framework/]
+[More details](http://wp.me/p9jY07-1x)
 
 # 硬件架构
 
@@ -20,4 +20,4 @@ For more details:[http://www.luzhengrong.cn/index.php/2017/10/25/lemon-pi-framew
 STM32F405RGT6作为运动控制单元，主要负责传感器数据采集，姿态估计及姿态控制。
 传感器为两组，冗余配置。
 
-详细信息:[http://www.luzhengrong.cn/index.php/2017/10/25/lemon-pi-framework/]
+[详细信息](http://wp.me/p9jY07-1x)
